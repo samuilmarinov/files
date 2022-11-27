@@ -26,9 +26,6 @@
         "PLA",
         "ABS"
       ]
-    },
-    "isPublic": {
-      "boolean": {}
     }
   }
 }
