@@ -26,6 +26,18 @@
         "PLA",
         "ABS"
       ]
+    },
+    "for_printer": {
+      "string": [
+        "PrusaI3",
+        "Voron"
+      ]
+    },
+    "status": {
+      "int": {
+        "min": -1,
+        "max": 4
+      }
     }
   }
 }
