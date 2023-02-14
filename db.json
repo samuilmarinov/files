@@ -1,11 +1,7 @@
 [
-    { id: 1, title: '1.gcode', priority: '2', copies: 35, printed: 35, filament: 'PLA' },
-    { id: 2, title: '2.gcode', priority: '1', copies: 23, printed: 2, filament: 'PLA' },
-    { id: 3, title: '3.gcode', priority: '2', copies: 30, printed: 2, filament: 'PLA' },
-    { id: 4, title: '4.gcode', priority: '2', copies: 11, printed: 2, filament: 'PLA' },
-    { id: 5, title: '5.gcode', priority: '2', copies: 12, printed: 2, filament: 'PLA' },
-    { id: 6, title: '6.gcode', priority: '2', copies: 3, printed: 2, filament: 'PLA' },
-    { id: 7, title: '7.gcode', priority: '2', copies: 5, printed: 3, filament: 'PLA' },
-    { id: 8, title: '8.gcode', priority: '2', copies: 10, printed: 5, filament: 'PLA' },
-    { id: 9, title: '9.gcode', priority: '2', copies: 15, printed: 1, filament: 'ABS' },
+    { title: '1.gcode', priority: '2', copies: 35, printed: 35, filament: 'PLA', "status":"-1",  "for_printer":"PrusaI3", "createdAt":"2023-02-08T07:43:34.246Z" },
+    { title: '2.gcode', priority: '1', copies: 23, printed: 2, filament: 'PLA', "status":"-1",  "for_printer":"PrusaI3", "createdAt":"2023-02-08T07:43:34.246Z" },
+    { title: '3.gcode', priority: '2', copies: 30, printed: 2, filament: 'PLA', "status":"-1",  "for_printer":"PrusaI3", "createdAt":"2023-02-08T07:43:34.246Z" },
+    { title: '4.gcode', priority: '2', copies: 11, printed: 2, filament: 'PLA', "status":"-1",  "for_printer":"PrusaI3", "createdAt":"2023-02-08T07:43:34.246Z" },
+    { title: '5.gcode', priority: '2', copies: 12, printed: 2, filament: 'PLA', "status":"-1",  "for_printer":"PrusaI3", "createdAt":"2023-02-08T07:43:34.246Z" }
 ]
